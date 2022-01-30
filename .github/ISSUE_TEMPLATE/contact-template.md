@@ -1,3 +1,12 @@
+---
+name: Contact Template
+about: Contact Me
+title: Contact
+labels: ''
+assignees: ''
+
+---
+
 # 1. Contact Me
 
 Simply fill out this form, and I'll get back to you as soon as possible.
