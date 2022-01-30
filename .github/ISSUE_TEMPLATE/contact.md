@@ -44,7 +44,7 @@ TOPIC ([Contact Monster0506]):
 
 Please write your message in the space below.
 
-If you are interested to know, the unmodified document is 1067 characters long. You can calculate the length of your current message with this.
+If you are interested to know, the unmodified document is 1798 characters long. You can calculate the length of your current message with this.
 
 Please leave this section blank if you would perfer to talk privately.
 
