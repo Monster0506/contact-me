@@ -1,12 +1,3 @@
----
-name: Contact Template
-about: Contact Me
-title: Contact
-labels: ''
-assignees: ''
-
----
-
 # 1. Contact Me
 
 Simply fill out this form, and I'll get back to you as soon as possible.
@@ -51,7 +42,7 @@ TOPIC ([Contact Monster0506]):
 
 Please write your message in the space below.
 
-If you are interested to know, the unmodified document is 1787 characters long. You can calculate the length of your current message with this.
+If you are interested to know, the unmodified document is 1696 characters long. You can calculate the length of your current message with this.
 
 Please leave this section blank if you would perfer to talk privately.
 
